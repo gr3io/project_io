@@ -6,7 +6,9 @@
 
 Repozytorium zostało stworzone w celu łatwego dostępu do tworzonych postępów w projekcie- diagramów.
 
-### 
+## Abouts diagrams
+
+Diagramy zostały wykonane w programie visual paradigm. 
 
 
 
